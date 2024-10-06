@@ -1,1 +1,4 @@
-"## CrudDjango" 
+# CrudDjango
+
+Praticando fundamentos
+
